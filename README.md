@@ -13,3 +13,4 @@ Step3: Press Ctrl+C or copy
 
 Step4: Press F9(by default) to create the audio story and to start it playing.
 
+Step5: Can remove the created mp3 by using F10.
